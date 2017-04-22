@@ -1,0 +1,25 @@
+{
+  "links": [
+    {
+      "name": "Ember.js",
+      "language": "javascript",
+      "link": "https://emberjs.com/api/",
+      "timestamp": "2017-04-22",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "Foundation for Sites",
+      "language": "css",
+      "link": "http://foundation.zurb.com/sites/docs/",
+      "timestamp": "2017-04-22",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "Foundation for Emails",
+      "language": "css",
+      "link": "http://foundation.zurb.com/emails/docs/",
+      "timestamp": "2017-04-22",
+      "credit": "nire0510@github"
+    }
+  ]
+}
