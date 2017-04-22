@@ -1,2 +1,2 @@
-# devdoc
-Links to frameworks &amp; libraries API documentation
+# devdocs
+Links to API documentation of popular frameworks & libraries Edit
