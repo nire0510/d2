@@ -2,6 +2,7 @@
   "links": [
     {
       "name": "Materialize",
+      "description": "A modern responsive front-end framework based on Material Design",
       "language": "css",
       "link": "http://materializecss.com/",
       "timestamp": "2017-04-22",
@@ -9,6 +10,7 @@
     },
     {
       "name": "Ember.js",
+      "description": "A framework for creating ambitious web applications",
       "language": "javascript",
       "link": "https://emberjs.com/api/",
       "timestamp": "2017-04-22",
@@ -16,6 +18,7 @@
     },
     {
       "name": "Foundation for Sites",
+      "description": "We built Foundation for Sites to be the most advanced responsive front-end framework in the world",
       "language": "css",
       "link": "http://foundation.zurb.com/sites/docs/",
       "timestamp": "2017-04-22",
@@ -23,8 +26,89 @@
     },
     {
       "name": "Foundation for Emails",
+      "description": "Use Foundation for Emails to design responsive HTML emails that work in any email client",
       "language": "css",
       "link": "http://foundation.zurb.com/emails/docs/",
+      "timestamp": "2017-04-22",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "Angular",
+      "description": "One framework. Mobile & desktop.",
+      "language": "javascript",
+      "link": "https://angular.io/docs/ts/latest/",
+      "timestamp": "2017-04-22",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "Bootstrap",
+      "description": "Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web",
+      "language": "css",
+      "link": "http://getbootstrap.com/getting-started/",
+      "timestamp": "2017-04-22",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "Lodash",
+      "description": "A modern JavaScript utility library delivering modularity, performance & extras",
+      "language": "javascript",
+      "link": "https://lodash.com/docs/",
+      "timestamp": "2017-04-22",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "Underscore.js",
+      "description": "JavaScript's utility _ belt",
+      "language": "javascript",
+      "link": "http://underscorejs.org/",
+      "timestamp": "2017-04-22",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "Express",
+      "description": "Fast, unopinionated, minimalist web framework for Node.js",
+      "language": "javascript",
+      "link": "https://expressjs.com/en/4x/api.html",
+      "timestamp": "2017-04-22",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "Ember CLI",
+      "language": "javascript",
+      "description": "The command line interface for ambitious web applications",
+      "link": "https://ember-cli.com/user-guide/",
+      "timestamp": "2017-04-22",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "React",
+      "language": "javascript",
+      "description": "A JAVASCRIPT LIBRARY FOR BUILDING USER INTERFACES",
+      "link": "https://facebook.github.io/react/docs/hello-world.html",
+      "timestamp": "2017-04-22",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "PhoneGap",
+      "language": "javascript",
+      "description": "Build amazing mobile apps powered by open web tech",
+      "link": "http://docs.phonegap.com/",
+      "timestamp": "2017-04-22",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "Vue.js",
+      "language": "javascript",
+      "description": "The Progressive JavaScript Framework",
+      "link": "https://vuejs.org/v2/api/",
+      "timestamp": "2017-04-22",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "jq",
+      "language": "bash",
+      "description": "jq is a lightweight and flexible command-line JSON processor",
+      "link": "https://stedolan.github.io/jq/",
       "timestamp": "2017-04-22",
       "credit": "nire0510@github"
     }
