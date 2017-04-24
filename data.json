@@ -3,7 +3,6 @@
     {
       "name": "Materialize",
       "description": "A modern responsive front-end framework based on Material Design",
-      "language": "css",
       "link": "http://materializecss.com/",
       "timestamp": "2017-04-22",
       "credit": "nire0510@github"
@@ -11,7 +10,6 @@
     {
       "name": "Ember.js",
       "description": "A framework for creating ambitious web applications",
-      "language": "javascript",
       "link": "https://emberjs.com/api/",
       "timestamp": "2017-04-22",
       "credit": "nire0510@github"
@@ -19,7 +17,6 @@
     {
       "name": "Foundation for Sites",
       "description": "We built Foundation for Sites to be the most advanced responsive front-end framework in the world",
-      "language": "css",
       "link": "http://foundation.zurb.com/sites/docs/",
       "timestamp": "2017-04-22",
       "credit": "nire0510@github"
@@ -27,7 +24,6 @@
     {
       "name": "Foundation for Emails",
       "description": "Use Foundation for Emails to design responsive HTML emails that work in any email client",
-      "language": "css",
       "link": "http://foundation.zurb.com/emails/docs/",
       "timestamp": "2017-04-22",
       "credit": "nire0510@github"
@@ -35,7 +31,6 @@
     {
       "name": "Angular",
       "description": "One framework. Mobile & desktop.",
-      "language": "javascript",
       "link": "https://angular.io/docs/ts/latest/",
       "timestamp": "2017-04-22",
       "credit": "nire0510@github"
@@ -43,7 +38,6 @@
     {
       "name": "Bootstrap",
       "description": "Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web",
-      "language": "css",
       "link": "http://getbootstrap.com/getting-started/",
       "timestamp": "2017-04-22",
       "credit": "nire0510@github"
@@ -51,7 +45,6 @@
     {
       "name": "Lodash",
       "description": "A modern JavaScript utility library delivering modularity, performance & extras",
-      "language": "javascript",
       "link": "https://lodash.com/docs/",
       "timestamp": "2017-04-22",
       "credit": "nire0510@github"
@@ -59,7 +52,6 @@
     {
       "name": "Underscore.js",
       "description": "JavaScript's utility _ belt",
-      "language": "javascript",
       "link": "http://underscorejs.org/",
       "timestamp": "2017-04-22",
       "credit": "nire0510@github"
@@ -67,14 +59,12 @@
     {
       "name": "Express",
       "description": "Fast, unopinionated, minimalist web framework for Node.js",
-      "language": "javascript",
       "link": "https://expressjs.com/en/4x/api.html",
       "timestamp": "2017-04-22",
       "credit": "nire0510@github"
     },
     {
       "name": "Ember CLI",
-      "language": "javascript",
       "description": "The command line interface for ambitious web applications",
       "link": "https://ember-cli.com/user-guide/",
       "timestamp": "2017-04-22",
@@ -82,7 +72,6 @@
     },
     {
       "name": "React",
-      "language": "javascript",
       "description": "A JAVASCRIPT LIBRARY FOR BUILDING USER INTERFACES",
       "link": "https://facebook.github.io/react/docs/hello-world.html",
       "timestamp": "2017-04-22",
@@ -90,7 +79,6 @@
     },
     {
       "name": "PhoneGap",
-      "language": "javascript",
       "description": "Build amazing mobile apps powered by open web tech",
       "link": "http://docs.phonegap.com/",
       "timestamp": "2017-04-22",
@@ -98,7 +86,6 @@
     },
     {
       "name": "Vue.js",
-      "language": "javascript",
       "description": "The Progressive JavaScript Framework",
       "link": "https://vuejs.org/v2/api/",
       "timestamp": "2017-04-22",
@@ -106,9 +93,78 @@
     },
     {
       "name": "jq",
-      "language": "bash",
       "description": "jq is a lightweight and flexible command-line JSON processor",
       "link": "https://stedolan.github.io/jq/",
+      "timestamp": "2017-04-22",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "Animate.css",
+      "description": "Just-add-water CSS animations",
+      "link": "https://daneden.github.io/animate.css/",
+      "timestamp": "2017-04-22",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "Moment.js",
+      "description": "Parse, validate, manipulate, and display dates and times in JavaScript",
+      "link": "http://momentjs.com/docs/",
+      "timestamp": "2017-04-22",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "Google Chrome Extensions API",
+      "description": "",
+      "link": "https://developer.chrome.com/extensions/api_index",
+      "timestamp": "2017-04-22",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "Ionic",
+      "description": "The top open source framework for building amazing mobile apps",
+      "link": "https://ionicframework.com/developers/",
+      "timestamp": "2017-04-22",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "AdminLTE",
+      "description": "Control Panel Template",
+      "link": "https://almsaeedstudio.com/themes/AdminLTE/documentation/index.html",
+      "timestamp": "2017-04-22",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "D3",
+      "description": "Data-Driven Documents",
+      "link": "https://github.com/d3/d3/blob/master/API.md",
+      "timestamp": "2017-04-22",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "Backbone.js",
+      "description": "Lightweight MVC framework for web development",
+      "link": "http://backbonejs.org/",
+      "timestamp": "2017-04-22",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "Bower",
+      "description": "A package manager for the web",
+      "link": "https://bower.io/",
+      "timestamp": "2017-04-22",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "npm",
+      "description": "A package manager for JavaScript and the world’s largest software registry",
+      "link": "https://docs.npmjs.com/",
+      "timestamp": "2017-04-22",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "mocha",
+      "description": "the fun, simple, flexible JavaScript test framework",
+      "link": "https://docs.npmjs.com/",
       "timestamp": "2017-04-22",
       "credit": "nire0510@github"
     }
