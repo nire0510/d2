@@ -167,6 +167,97 @@
       "link": "https://docs.npmjs.com/",
       "timestamp": "2017-04-22",
       "credit": "nire0510@github"
+    },
+    {
+      "name": "Sass",
+      "description": "CSS with superpowers",
+      "link": "http://sass-lang.com/documentation/file.SASS_REFERENCE.html",
+      "timestamp": "2017-04-22",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "less",
+      "description": "An overview of Less, how to download and use, examples and more",
+      "link": "http://lesscss.org/features/",
+      "timestamp": "2017-04-22",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "KARMA",
+      "description": "Spectacular Test Runner for Javascript",
+      "link": "https://karma-runner.github.io/1.0/dev/public-api.html",
+      "timestamp": "2017-04-22",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "Karma",
+      "description": "Spectacular Test Runner for Javascript",
+      "link": "https://karma-runner.github.io/1.0/dev/public-api.html",
+      "timestamp": "2017-04-22",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "QUnit",
+      "description": "A JavaScript Unit Testing framework",
+      "link": "http://api.qunitjs.com/",
+      "timestamp": "2017-04-22",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "ImageMagick",
+      "description": "Convert, Edit, Or Compose Bitmap Images",
+      "link": "https://www.imagemagick.org/script/command-line-processing.php",
+      "timestamp": "2017-04-22",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "Kodi",
+      "description": "Open Source Home Theater Software",
+      "link": "http://mirrors.kodi.tv/docs/python-docs/",
+      "timestamp": "2017-04-22",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "SeleniumHQ",
+      "description": "Browser Automation",
+      "link": "http://www.seleniumhq.org/docs/",
+      "timestamp": "2017-04-22",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "Node.js",
+      "description": "Event-driven I/O server-side JavaScript environment based on V8",
+      "link": "https://nodejs.org/dist/latest-v7.x/docs/api/",
+      "timestamp": "2017-04-22",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "Chart.js",
+      "description": "Simple yet flexible JavaScript charting for designers & developers",
+      "link": "http://www.chartjs.org/docs/",
+      "timestamp": "2017-04-22",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "Semantic UI",
+      "description": "User Interface is the language of the web",
+      "link": "https://semantic-ui.com/introduction/getting-started.html",
+      "timestamp": "2017-04-22",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "YAML",
+      "description": "A modular CSS framework for truly flexible, accessible and responsive websites",
+      "link": "http://www.yaml.de/docs/index.html",
+      "timestamp": "2017-04-22",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "Compass",
+      "description": "Compass is an open-source CSS Authoring Framework",
+      "link": "http://compass-style.org/help/documentation/",
+      "timestamp": "2017-04-22",
+      "credit": "nire0510@github"
     }
   ]
 }
