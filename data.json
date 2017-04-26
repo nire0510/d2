@@ -258,6 +258,13 @@
       "link": "http://compass-style.org/help/documentation/",
       "timestamp": "2017-04-22",
       "credit": "nire0510@github"
+    },
+    {
+      "name": "LoopBack",
+      "description": "The Node.js API Framework",
+      "link": "http://apidocs.strongloop.com/",
+      "timestamp": "2017-04-22",
+      "credit": "nire0510@github"
     }
   ]
 }
