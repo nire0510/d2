@@ -303,6 +303,30 @@
       "link": "http://php.net/manual/en/langref.php",
       "timestamp": "2017-04-22",
       "credit": "nire0510@github"
+    },
+    {
+      "name": "git",
+      "description": "Git is a free and open source distributed version control system",
+      "tags": ["cli", "source control"],
+      "link": "https://git-scm.com/docs",
+      "timestamp": "2017-04-22",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "grunt",
+      "description": "The JavaScript Task Runner",
+      "tags": ["cli"],
+      "link": "https://gruntjs.com/api/grunt",
+      "timestamp": "2017-04-22",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "Gulp",
+      "description": "Automate and enhance your workflow",
+      "tags": ["cli"],
+      "link": "https://github.com/gulpjs/gulp/blob/master/docs/API.md",
+      "timestamp": "2017-04-22",
+      "credit": "nire0510@github"
     }
   ]
 }
