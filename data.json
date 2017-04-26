@@ -415,6 +415,14 @@
       "link": "https://developers.facebook.com/docs/graph-api/reference",
       "timestamp": "2017-04-22",
       "credit": "nire0510@github"
+    },
+    {
+      "name": "Go",
+      "description": "Open source programming language that makes it easy to build simple",
+      "tags": ["language"],
+      "link": "https://golang.org/ref/spec",
+      "timestamp": "2017-04-22",
+      "credit": "nire0510@github"
     }
   ]
 }
