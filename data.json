@@ -3,6 +3,7 @@
     {
       "name": "Materialize",
       "description": "A modern responsive front-end framework based on Material Design",
+      "tags": ["framework", "ui"],
       "link": "http://materializecss.com/",
       "timestamp": "2017-04-22",
       "credit": "nire0510@github"
@@ -10,6 +11,7 @@
     {
       "name": "Ember.js",
       "description": "A framework for creating ambitious web applications",
+      "tags": ["framework", "mvc"],
       "link": "https://emberjs.com/api/",
       "timestamp": "2017-04-22",
       "credit": "nire0510@github"
@@ -17,6 +19,7 @@
     {
       "name": "Foundation for Sites",
       "description": "We built Foundation for Sites to be the most advanced responsive front-end framework in the world",
+      "tags": ["framework", "ui"],
       "link": "http://foundation.zurb.com/sites/docs/",
       "timestamp": "2017-04-22",
       "credit": "nire0510@github"
@@ -24,6 +27,7 @@
     {
       "name": "Foundation for Emails",
       "description": "Use Foundation for Emails to design responsive HTML emails that work in any email client",
+      "tags": ["framework", "ui"],
       "link": "http://foundation.zurb.com/emails/docs/",
       "timestamp": "2017-04-22",
       "credit": "nire0510@github"
@@ -31,6 +35,7 @@
     {
       "name": "Angular",
       "description": "One framework. Mobile & desktop.",
+      "tags": ["framework", "mvc"],
       "link": "https://angular.io/docs/ts/latest/",
       "timestamp": "2017-04-22",
       "credit": "nire0510@github"
@@ -38,6 +43,7 @@
     {
       "name": "Bootstrap",
       "description": "Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web",
+      "tags": ["framework", "ui"],
       "link": "http://getbootstrap.com/getting-started/",
       "timestamp": "2017-04-22",
       "credit": "nire0510@github"
@@ -45,6 +51,7 @@
     {
       "name": "Lodash",
       "description": "A modern JavaScript utility library delivering modularity, performance & extras",
+      "tags": ["library", "javascript"],
       "link": "https://lodash.com/docs/",
       "timestamp": "2017-04-22",
       "credit": "nire0510@github"
@@ -52,6 +59,7 @@
     {
       "name": "Underscore.js",
       "description": "JavaScript's utility _ belt",
+      "tags": ["library", "javascript"],
       "link": "http://underscorejs.org/",
       "timestamp": "2017-04-22",
       "credit": "nire0510@github"
@@ -59,6 +67,7 @@
     {
       "name": "Express",
       "description": "Fast, unopinionated, minimalist web framework for Node.js",
+      "tags": ["nodejs", "framework"],
       "link": "https://expressjs.com/en/4x/api.html",
       "timestamp": "2017-04-22",
       "credit": "nire0510@github"
@@ -66,6 +75,7 @@
     {
       "name": "Ember CLI",
       "description": "The command line interface for ambitious web applications",
+      "tags": ["cli", "framework"],
       "link": "https://ember-cli.com/user-guide/",
       "timestamp": "2017-04-22",
       "credit": "nire0510@github"
@@ -73,6 +83,7 @@
     {
       "name": "React",
       "description": "A JAVASCRIPT LIBRARY FOR BUILDING USER INTERFACES",
+      "tags": ["library"],
       "link": "https://facebook.github.io/react/docs/hello-world.html",
       "timestamp": "2017-04-22",
       "credit": "nire0510@github"
@@ -80,6 +91,7 @@
     {
       "name": "PhoneGap",
       "description": "Build amazing mobile apps powered by open web tech",
+      "tags": ["mobile"],
       "link": "http://docs.phonegap.com/",
       "timestamp": "2017-04-22",
       "credit": "nire0510@github"
@@ -87,6 +99,7 @@
     {
       "name": "Vue.js",
       "description": "The Progressive JavaScript Framework",
+      "tags": ["framework", "mvc"],
       "link": "https://vuejs.org/v2/api/",
       "timestamp": "2017-04-22",
       "credit": "nire0510@github"
@@ -94,6 +107,7 @@
     {
       "name": "jq",
       "description": "jq is a lightweight and flexible command-line JSON processor",
+      "tags": ["cli", "json"],
       "link": "https://stedolan.github.io/jq/",
       "timestamp": "2017-04-22",
       "credit": "nire0510@github"
@@ -101,6 +115,7 @@
     {
       "name": "Animate.css",
       "description": "Just-add-water CSS animations",
+      "tags": ["animation", "ui"],
       "link": "https://daneden.github.io/animate.css/",
       "timestamp": "2017-04-22",
       "credit": "nire0510@github"
@@ -108,6 +123,7 @@
     {
       "name": "Moment.js",
       "description": "Parse, validate, manipulate, and display dates and times in JavaScript",
+      "tags": ["library", "date", "time"],
       "link": "http://momentjs.com/docs/",
       "timestamp": "2017-04-22",
       "credit": "nire0510@github"
@@ -115,6 +131,7 @@
     {
       "name": "Google Chrome Extensions API",
       "description": "",
+      "tags": ["extension"],
       "link": "https://developer.chrome.com/extensions/api_index",
       "timestamp": "2017-04-22",
       "credit": "nire0510@github"
@@ -122,6 +139,7 @@
     {
       "name": "Ionic",
       "description": "The top open source framework for building amazing mobile apps",
+      "tags": ["framework", "mobile", "ui"],
       "link": "https://ionicframework.com/developers/",
       "timestamp": "2017-04-22",
       "credit": "nire0510@github"
@@ -129,6 +147,7 @@
     {
       "name": "AdminLTE",
       "description": "Control Panel Template",
+      "tags": ["ui"],
       "link": "https://almsaeedstudio.com/themes/AdminLTE/documentation/index.html",
       "timestamp": "2017-04-22",
       "credit": "nire0510@github"
@@ -136,6 +155,7 @@
     {
       "name": "D3",
       "description": "Data-Driven Documents",
+      "tags": ["charts", "library"],
       "link": "https://github.com/d3/d3/blob/master/API.md",
       "timestamp": "2017-04-22",
       "credit": "nire0510@github"
@@ -143,6 +163,7 @@
     {
       "name": "Backbone.js",
       "description": "Lightweight MVC framework for web development",
+      "tags": ["library", "mvc"],
       "link": "http://backbonejs.org/",
       "timestamp": "2017-04-22",
       "credit": "nire0510@github"
@@ -150,6 +171,7 @@
     {
       "name": "Bower",
       "description": "A package manager for the web",
+      "tags": ["cli", "package"],
       "link": "https://bower.io/",
       "timestamp": "2017-04-22",
       "credit": "nire0510@github"
@@ -157,6 +179,7 @@
     {
       "name": "npm",
       "description": "A package manager for JavaScript and the world’s largest software registry",
+      "tags": ["cli", "package"],
       "link": "https://docs.npmjs.com/",
       "timestamp": "2017-04-22",
       "credit": "nire0510@github"
@@ -164,6 +187,7 @@
     {
       "name": "mocha",
       "description": "the fun, simple, flexible JavaScript test framework",
+      "tags": ["framework", "testing"],
       "link": "https://docs.npmjs.com/",
       "timestamp": "2017-04-22",
       "credit": "nire0510@github"
@@ -171,6 +195,7 @@
     {
       "name": "Sass",
       "description": "CSS with superpowers",
+      "tags": ["processor", "css", "ui"],
       "link": "http://sass-lang.com/documentation/file.SASS_REFERENCE.html",
       "timestamp": "2017-04-22",
       "credit": "nire0510@github"
@@ -178,20 +203,15 @@
     {
       "name": "less",
       "description": "An overview of Less, how to download and use, examples and more",
+      "tags": ["processor", "css", "ui"],
       "link": "http://lesscss.org/features/",
-      "timestamp": "2017-04-22",
-      "credit": "nire0510@github"
-    },
-    {
-      "name": "KARMA",
-      "description": "Spectacular Test Runner for Javascript",
-      "link": "https://karma-runner.github.io/1.0/dev/public-api.html",
       "timestamp": "2017-04-22",
       "credit": "nire0510@github"
     },
     {
       "name": "Karma",
       "description": "Spectacular Test Runner for Javascript",
+      "tags": ["framework", "testing"],
       "link": "https://karma-runner.github.io/1.0/dev/public-api.html",
       "timestamp": "2017-04-22",
       "credit": "nire0510@github"
@@ -199,6 +219,7 @@
     {
       "name": "QUnit",
       "description": "A JavaScript Unit Testing framework",
+      "tags": ["framework", "testing"],
       "link": "http://api.qunitjs.com/",
       "timestamp": "2017-04-22",
       "credit": "nire0510@github"
@@ -206,6 +227,7 @@
     {
       "name": "ImageMagick",
       "description": "Convert, Edit, Or Compose Bitmap Images",
+      "tags": ["image", "cli"],
       "link": "https://www.imagemagick.org/script/command-line-processing.php",
       "timestamp": "2017-04-22",
       "credit": "nire0510@github"
@@ -213,6 +235,7 @@
     {
       "name": "Kodi",
       "description": "Open Source Home Theater Software",
+      "tags": ["software", "python", "addon"],
       "link": "http://mirrors.kodi.tv/docs/python-docs/",
       "timestamp": "2017-04-22",
       "credit": "nire0510@github"
@@ -220,6 +243,7 @@
     {
       "name": "SeleniumHQ",
       "description": "Browser Automation",
+      "tags": ["framework", "testing"],
       "link": "http://www.seleniumhq.org/docs/",
       "timestamp": "2017-04-22",
       "credit": "nire0510@github"
@@ -227,6 +251,7 @@
     {
       "name": "Node.js",
       "description": "Event-driven I/O server-side JavaScript environment based on V8",
+      "tags": ["node", "javascript"],
       "link": "https://nodejs.org/dist/latest-v7.x/docs/api/",
       "timestamp": "2017-04-22",
       "credit": "nire0510@github"
@@ -234,6 +259,7 @@
     {
       "name": "Chart.js",
       "description": "Simple yet flexible JavaScript charting for designers & developers",
+      "tags": ["charts", "ui", "data"],
       "link": "http://www.chartjs.org/docs/",
       "timestamp": "2017-04-22",
       "credit": "nire0510@github"
@@ -241,6 +267,7 @@
     {
       "name": "Semantic UI",
       "description": "User Interface is the language of the web",
+      "tags": ["framework", "ui"],
       "link": "https://semantic-ui.com/introduction/getting-started.html",
       "timestamp": "2017-04-22",
       "credit": "nire0510@github"
@@ -248,6 +275,7 @@
     {
       "name": "YAML",
       "description": "A modular CSS framework for truly flexible, accessible and responsive websites",
+      "tags": ["framework", "ui", "css"],
       "link": "http://www.yaml.de/docs/index.html",
       "timestamp": "2017-04-22",
       "credit": "nire0510@github"
@@ -255,6 +283,7 @@
     {
       "name": "Compass",
       "description": "Compass is an open-source CSS Authoring Framework",
+      "tags": ["framework", "ui", "css"],
       "link": "http://compass-style.org/help/documentation/",
       "timestamp": "2017-04-22",
       "credit": "nire0510@github"
@@ -262,6 +291,7 @@
     {
       "name": "LoopBack",
       "description": "The Node.js API Framework",
+      "tags": ["framework", "nodejs"],
       "link": "http://apidocs.strongloop.com/",
       "timestamp": "2017-04-22",
       "credit": "nire0510@github"
