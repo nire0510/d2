@@ -11,7 +11,7 @@
     {
       "name": "Ember.js",
       "description": "A framework for creating ambitious web applications",
-      "tags": ["framework", "mvc"],
+      "tags": ["javascript", "framework", "mvc"],
       "link": "https://emberjs.com/api/",
       "timestamp": "2017-04-22",
       "credit": "nire0510@github"
@@ -35,7 +35,7 @@
     {
       "name": "Angular",
       "description": "One framework. Mobile & desktop.",
-      "tags": ["framework", "mvc"],
+      "tags": ["javascript", "framework", "mvc"],
       "link": "https://angular.io/docs/ts/latest/",
       "timestamp": "2017-04-22",
       "credit": "nire0510@github"
@@ -83,7 +83,7 @@
     {
       "name": "React",
       "description": "A JAVASCRIPT LIBRARY FOR BUILDING USER INTERFACES",
-      "tags": ["library"],
+      "tags": ["javascript", "library"],
       "link": "https://facebook.github.io/react/docs/hello-world.html",
       "timestamp": "2017-04-22",
       "credit": "nire0510@github"
@@ -99,7 +99,7 @@
     {
       "name": "Vue.js",
       "description": "The Progressive JavaScript Framework",
-      "tags": ["framework", "mvc"],
+      "tags": ["javascript", "framework", "mvc"],
       "link": "https://vuejs.org/v2/api/",
       "timestamp": "2017-04-22",
       "credit": "nire0510@github"
@@ -357,6 +357,38 @@
       "description": "EXPRESSIVE, DYNAMIC, ROBUST CSS",
       "tags": ["css", "framework", "ui"],
       "link": "http://stylus-lang.com/",
+      "timestamp": "2017-04-22",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "Polymer",
+      "description": "Unlock the Power of Web Components",
+      "tags": ["css", "library", "ui"],
+      "link": "https://www.polymer-project.org/2.0/docs/about_20",
+      "timestamp": "2017-04-22",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "Meteor",
+      "description": "THE FASTEST WAY TO BUILD JAVASCRIPT APPS",
+      "tags": ["javascript", "framework"],
+      "link": "http://docs.meteor.com/#/full/",
+      "timestamp": "2017-04-22",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "Aurelia",
+      "description": "Create next generation JavaScript apps today",
+      "tags": ["javascript", "framework"],
+      "link": "http://aurelia.io/hub.html#/doc/api",
+      "timestamp": "2017-04-22",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "Babel",
+      "description": "The compiler for writing next generation JavaScript",
+      "tags": ["javascript", "framework"],
+      "link": "https://babeljs.io/docs/usage/api/",
       "timestamp": "2017-04-22",
       "credit": "nire0510@github"
     }
