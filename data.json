@@ -327,6 +327,14 @@
       "link": "https://github.com/gulpjs/gulp/blob/master/docs/API.md",
       "timestamp": "2017-04-22",
       "credit": "nire0510@github"
+    },
+    {
+      "name": "Webpack",
+      "description": "Bundle your assets",
+      "tags": ["cli"],
+      "link": "https://webpack.js.org/configuration/",
+      "timestamp": "2017-04-22",
+      "credit": "nire0510@github"
     }
   ]
 }
