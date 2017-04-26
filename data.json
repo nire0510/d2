@@ -391,6 +391,14 @@
       "link": "https://babeljs.io/docs/usage/api/",
       "timestamp": "2017-04-22",
       "credit": "nire0510@github"
+    },
+    {
+      "name": "Yarn",
+      "description": "Fast, reliable, and secure dependency management",
+      "tags": ["nodejs", "cli"],
+      "link": "https://yarnpkg.com/en/docs",
+      "timestamp": "2017-04-22",
+      "credit": "nire0510@github"
     }
   ]
 }
