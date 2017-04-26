@@ -335,6 +335,30 @@
       "link": "https://webpack.js.org/configuration/",
       "timestamp": "2017-04-22",
       "credit": "nire0510@github"
+    },
+    {
+      "name": "Python",
+      "description": "",
+      "tags": ["language"],
+      "link": "https://docs.python.org/3/reference/index.html",
+      "timestamp": "2017-04-22",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "Redis",
+      "description": "In-memory data structure store",
+      "tags": ["cli", "database"],
+      "link": "https://redis.io/documentation",
+      "timestamp": "2017-04-22",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "Stylus",
+      "description": "EXPRESSIVE, DYNAMIC, ROBUST CSS",
+      "tags": ["css", "framework", "ui"],
+      "link": "http://stylus-lang.com/",
+      "timestamp": "2017-04-22",
+      "credit": "nire0510@github"
     }
   ]
 }
