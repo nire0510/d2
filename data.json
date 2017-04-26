@@ -399,6 +399,22 @@
       "link": "https://yarnpkg.com/en/docs",
       "timestamp": "2017-04-22",
       "credit": "nire0510@github"
+    },
+    {
+      "name": "JavaScript",
+      "description": "",
+      "tags": ["language", "web"],
+      "link": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference",
+      "timestamp": "2017-04-22",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "Facebook Graph API",
+      "description": "",
+      "tags": [""],
+      "link": "https://developers.facebook.com/docs/graph-api/reference",
+      "timestamp": "2017-04-22",
+      "credit": "nire0510@github"
     }
   ]
 }
