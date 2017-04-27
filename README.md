@@ -1,5 +1,8 @@
 # D2 - Developer Documentation
-Quick access to popular libraries, frameworks & tools online developer documentation
+Quick access to popular libraries, frameworks & tools online developer documentation.
+
+With all these great frameworks & libraries out there, it's hard to master each one of them.
+D2 (Developer Documentation) provides links to the documentation of most popular frameworks, libraries and other development tools, so you’ll able to get some answers quickly!
 
 ## Installation
 1. Open [D2 page](https://chrome.google.com/webstore/detail/d2-developer-documentatio/pcndaioeajanljljbjglanbmnmhgdjln) on Google Chrome Webstore
