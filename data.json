@@ -423,6 +423,22 @@
       "link": "https://golang.org/ref/spec",
       "timestamp": "2017-04-22",
       "credit": "nire0510@github"
+    },
+    {
+      "name": "jQuery UI",
+      "description": "Curated set of user interface interactions, effects, widgets, and themes",
+      "tags": ["ui", "library"],
+      "link": "http://api.jqueryui.com/",
+      "timestamp": "2017-04-22",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "jQuery",
+      "description": "jQuery is a fast, small, and feature-rich JavaScript library",
+      "tags": ["javascript", "library"],
+      "link": "http://api.jquery.com/",
+      "timestamp": "2017-04-22",
+      "credit": "nire0510@github"
     }
   ]
 }
