@@ -439,6 +439,22 @@
       "link": "http://api.jquery.com/",
       "timestamp": "2017-04-22",
       "credit": "nire0510@github"
+    },
+    {
+      "name": "Flux",
+      "description": "APPLICATION ARCHITECTURE FOR BUILDING USER INTERFACES",
+      "tags": ["javascript", "library"],
+      "link": "https://facebook.github.io/flux/docs/overview.html#content",
+      "timestamp": "2017-04-22",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "Redux",
+      "description": "Predictable state container for JavaScript apps",
+      "tags": ["javascript", "library"],
+      "link": "http://redux.js.org/docs/introduction/",
+      "timestamp": "2017-04-22",
+      "credit": "nire0510@github"
     }
   ]
 }
