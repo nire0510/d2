@@ -591,6 +591,14 @@
       "link": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference",
       "timestamp": "2017-04-29",
       "credit": "nire0510@github"
+    },
+    {
+      "name": "Ember Simple Auth",
+      "description": "Lightweight authentication/authorization library for Ember.js",
+      "tags": ["javascript", "auth"],
+      "link": "https://ember-simple-auth.com/api/",
+      "timestamp": "2017-04-30",
+      "credit": "nire0510@github"
     }
   ]
 }
