@@ -455,6 +455,14 @@
       "link": "http://redux.js.org/docs/introduction/",
       "timestamp": "2017-04-22",
       "credit": "nire0510@github"
+    },
+    {
+      "name": "Bookshelf.js",
+      "description": "JavaScript ORM for Node.js",
+      "tags": ["javascript", "library", "node.js", "database"],
+      "link": "http://bookshelfjs.org/#associations",
+      "timestamp": "2017-04-22",
+      "credit": "nire0510@github"
     }
   ]
 }
