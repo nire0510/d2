@@ -445,7 +445,7 @@
       "description": "APPLICATION ARCHITECTURE FOR BUILDING USER INTERFACES",
       "tags": ["javascript", "library"],
       "link": "https://facebook.github.io/flux/docs/overview.html#content",
-      "timestamp": "2017-04-22",
+      "timestamp": "2017-04-29",
       "credit": "nire0510@github"
     },
     {
@@ -453,7 +453,7 @@
       "description": "Predictable state container for JavaScript apps",
       "tags": ["javascript", "library"],
       "link": "http://redux.js.org/docs/introduction/",
-      "timestamp": "2017-04-22",
+      "timestamp": "2017-04-29",
       "credit": "nire0510@github"
     },
     {
@@ -477,7 +477,7 @@
       "description": "High performance template engine heavily influenced by Haml",
       "tags": ["template", "node.js"],
       "link": "https://pugjs.org/api/getting-started.html",
-      "timestamp": "2017-04-22",
+      "timestamp": "2017-04-29",
       "credit": "nire0510@github"
     },
     {
@@ -485,7 +485,7 @@
       "description": "Pluggable JavaScript linter",
       "tags": ["javascript", "quality"],
       "link": "http://eslint.org/docs/developer-guide/",
-      "timestamp": "2017-04-22",
+      "timestamp": "2017-04-29",
       "credit": "nire0510@github"
     },
     {
@@ -493,7 +493,7 @@
       "description": "Advanced, production process manager for Node.js",
       "tags": ["javascript", "quality"],
       "link": "http://pm2.keymetrics.io/docs/usage/cluster-mode/",
-      "timestamp": "2017-04-22",
+      "timestamp": "2017-04-29",
       "credit": "nire0510@github"
     },
     {
@@ -501,7 +501,7 @@
       "description": "Simplified HTTP request client",
       "tags": ["network", "node.js"],
       "link": "https://github.com/request/request",
-      "timestamp": "2017-04-22",
+      "timestamp": "2017-04-29",
       "credit": "nire0510@github"
     },
     {
@@ -525,7 +525,7 @@
       "description": "Simple, unobtrusive authentication for Node.js",
       "tags": ["node.js", "authentication"],
       "link": "http://passportjs.org/docs",
-      "timestamp": "2017-04-22",
+      "timestamp": "2017-04-29",
       "credit": "nire0510@github"
     },
     {
@@ -533,7 +533,7 @@
       "description": "SQL query builder",
       "tags": ["node.js", "database"],
       "link": "http://knexjs.org/",
-      "timestamp": "2017-04-22",
+      "timestamp": "2017-04-29",
       "credit": "nire0510@github"
     },
     {
@@ -541,7 +541,7 @@
       "description": "Generate massive amounts of fake data in Node.js and the browser",
       "tags": ["javascript", "testing", "mock"],
       "link": "https://github.com/marak/Faker.js/",
-      "timestamp": "2017-04-22",
+      "timestamp": "2017-04-29",
       "credit": "nire0510@github"
     },
     {
@@ -549,7 +549,15 @@
       "description": "Fast, flexible, and lean implementation of core jQuery designed specifically for the server",
       "tags": ["node.js", "scraping", "dom", "jquery"],
       "link": "https://cheerio.js.org/",
-      "timestamp": "2017-04-22",
+      "timestamp": "2017-04-29",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "jQuery Mobile",
+      "description": "A Touch-Optimized Web Framework",
+      "tags": ["mobile", "jquery"],
+      "link": "http://api.jquerymobile.com/",
+      "timestamp": "2017-04-29",
       "credit": "nire0510@github"
     }
   ]
