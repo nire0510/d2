@@ -463,6 +463,94 @@
       "link": "http://bookshelfjs.org/#associations",
       "timestamp": "2017-04-22",
       "credit": "nire0510@github"
+    },
+    {
+      "name": "Browserify",
+      "description": "Browser-side require() the node.js way",
+      "tags": ["package"],
+      "link": "https://github.com/substack/node-browserify#usage",
+      "timestamp": "2017-04-22",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "Pug",
+      "description": "High performance template engine heavily influenced by Haml",
+      "tags": ["template", "node.js"],
+      "link": "https://pugjs.org/api/getting-started.html",
+      "timestamp": "2017-04-22",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "ESLint",
+      "description": "Pluggable JavaScript linter",
+      "tags": ["javascript", "quality"],
+      "link": "http://eslint.org/docs/developer-guide/",
+      "timestamp": "2017-04-22",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "PM2",
+      "description": "Advanced, production process manager for Node.js",
+      "tags": ["javascript", "quality"],
+      "link": "http://pm2.keymetrics.io/docs/usage/cluster-mode/",
+      "timestamp": "2017-04-22",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "Request",
+      "description": "Simplified HTTP request client",
+      "tags": ["network", "node.js"],
+      "link": "https://github.com/request/request",
+      "timestamp": "2017-04-22",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "JSDoc",
+      "description": "API documentation generator for JavaScript",
+      "tags": ["generator", "javascript", "documentation"],
+      "link": "http://usejsdoc.org/",
+      "timestamp": "2017-04-22",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "Async",
+      "description": "Async utilities for node and the browser",
+      "tags": ["node.js"],
+      "link": "http://caolan.github.io/async/",
+      "timestamp": "2017-04-22",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "Passport",
+      "description": "Simple, unobtrusive authentication for Node.js",
+      "tags": ["node.js", "authentication"],
+      "link": "http://passportjs.org/docs",
+      "timestamp": "2017-04-22",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "Knex.js",
+      "description": "SQL query builder",
+      "tags": ["node.js", "database"],
+      "link": "http://knexjs.org/",
+      "timestamp": "2017-04-22",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "Faker.js",
+      "description": "Generate massive amounts of fake data in Node.js and the browser",
+      "tags": ["javascript", "testing", "mock"],
+      "link": "https://github.com/marak/Faker.js/",
+      "timestamp": "2017-04-22",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "Cheerio",
+      "description": "Fast, flexible, and lean implementation of core jQuery designed specifically for the server",
+      "tags": ["node.js", "scraping", "dom", "jquery"],
+      "link": "https://cheerio.js.org/",
+      "timestamp": "2017-04-22",
+      "credit": "nire0510@github"
     }
   ]
 }
