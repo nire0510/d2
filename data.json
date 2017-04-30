@@ -402,7 +402,7 @@
     },
     {
       "name": "JavaScript",
-      "description": "",
+      "description": "JIT-compiled programming language with first-class functions",
       "tags": ["language", "web"],
       "link": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference",
       "timestamp": "2017-04-22",
@@ -565,6 +565,30 @@
       "description": "The essential toolkit for web-developers",
       "tags": ["css", "html", "productivity"],
       "link": "https://docs.emmet.io/",
+      "timestamp": "2017-04-29",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "Google Analytics",
+      "description": "Measure user interaction with websites or web applications",
+      "tags": ["web", "tracking"],
+      "link": "https://developers.google.com/analytics/devguides/collection/analyticsjs/command-queue-reference",
+      "timestamp": "2017-04-29",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "CSS",
+      "description": "Cascading Style Sheets",
+      "tags": ["web"],
+      "link": "https://developer.mozilla.org/en-US/docs/Web/CSS/Reference",
+      "timestamp": "2017-04-29",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "HTML",
+      "description": "Hypertext Markup Language",
+      "tags": ["web"],
+      "link": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference",
       "timestamp": "2017-04-29",
       "credit": "nire0510@github"
     }
