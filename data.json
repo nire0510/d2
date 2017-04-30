@@ -409,10 +409,10 @@
       "credit": "nire0510@github"
     },
     {
-      "name": "Facebook Graph API",
-      "description": "",
-      "tags": [""],
-      "link": "https://developers.facebook.com/docs/graph-api/reference",
+      "name": "Facebook SDK",
+      "description": "Facebook SDK for JavaScript",
+      "tags": ["web", "javascript"],
+      "link": "https://developers.facebook.com/docs/javascript/reference/",
       "timestamp": "2017-04-22",
       "credit": "nire0510@github"
     },
