@@ -559,6 +559,14 @@
       "link": "http://api.jquerymobile.com/",
       "timestamp": "2017-04-29",
       "credit": "nire0510@github"
+    },
+    {
+      "name": "Emmet",
+      "description": "The essential toolkit for web-developers",
+      "tags": ["css", "html", "productivity"],
+      "link": "https://docs.emmet.io/",
+      "timestamp": "2017-04-29",
+      "credit": "nire0510@github"
     }
   ]
 }
