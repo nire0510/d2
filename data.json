@@ -615,6 +615,14 @@
       "link": "https://reacttraining.com/react-router/web/api/",
       "timestamp": "2017-05-03",
       "credit": "YakyRef@github"
+    },
+    {
+      "name": "Material-UI",
+      "description": "A Set of React Components that Implement Google's Material Design",
+      "tags": ["javascript", "react", "material-design", "material-ui", "css"],
+      "link": "http://www.material-ui.com/#/get-started/required-knowledge",
+      "timestamp": "2017-05-03",
+      "credit": "YakyRef@github"
     }
   ]
 }
