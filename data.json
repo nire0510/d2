@@ -623,6 +623,54 @@
       "link": "http://www.material-ui.com/#/get-started/usage",
       "timestamp": "2017-05-03",
       "credit": "YakyRef@github"
+    },
+    {
+      "name": "Riot.js",
+      "description": "Simple and elegant component-based UI library",
+      "tags": ["javascript", "library", "ui"],
+      "link": "http://riotjs.com/api/",
+      "timestamp": "2017-05-03",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "CreateJS",
+      "description": "Enable rich interactive content",
+      "tags": ["javascript", "library", "ui", "3d", "animation"],
+      "link": "http://www.createjs.com/docs",
+      "timestamp": "2017-05-03",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "Three.js",
+      "description": "A JavaScript 3D Library which makes WebGL simpler",
+      "tags": ["javascript", "library", "ui", "3d", "animation"],
+      "link": "https://threejs.org/docs/index.html#manual/introduction/Creating-a-scene",
+      "timestamp": "2017-05-03",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "HTML Reference",
+      "description": "A free guide to all HTML elements and attributes",
+      "tags": ["html"],
+      "link": "http://htmlreference.io/",
+      "timestamp": "2017-05-03",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "CSS Reference",
+      "description": "A free visual guide to CSS",
+      "tags": ["css"],
+      "link": "http://cssreference.io/",
+      "timestamp": "2017-05-03",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "Mixpanel",
+      "description": "Learn how people use your app",
+      "tags": ["javascript", "analytics"],
+      "link": "https://mixpanel.com/help/reference",
+      "timestamp": "2017-05-03",
+      "credit": "nire0510@github"
     }
   ]
 }
