@@ -599,6 +599,22 @@
       "link": "https://ember-simple-auth.com/api/",
       "timestamp": "2017-04-30",
       "credit": "nire0510@github"
+    },
+     {
+      "name": "Jest",
+      "description": "Painless JavaScript Testing",
+      "tags": ["javascript", "testing", "react"],
+      "link": "https://facebook.github.io/jest/docs/en/api.html",
+      "timestamp": "2017-05-03",
+      "credit": "YakyRef@github"
+    },
+    {
+      "name": "React-Router",
+      "description": "Declarative Routing for React",
+      "tags": ["javascript", "react", "routing", "router"],
+      "link": "https://reacttraining.com/react-router/web/api/",
+      "timestamp": "2017-05-03",
+      "credit": "YakyRef@github"
     }
   ]
 }
