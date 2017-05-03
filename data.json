@@ -604,17 +604,17 @@
       "name": "Jest",
       "description": "Painless JavaScript Testing",
       "tags": ["javascript", "testing", "react"],
-      "link": "https://facebook.github.io/jest/",
+      "link": "https://facebook.github.io/jest/docs/en/api.html",
       "timestamp": "2017-05-03",
-      "credit": "nire0510@github"
+      "credit": "YakyRef@github"
     },
     {
       "name": "React-Router",
-      "description": "Declarative routing for React",
-      "tags": ["javascript", "React", "Routing", "Router"],
-      "link": "https://github.com/ReactTraining/react-router",
+      "description": "Declarative Routing for React",
+      "tags": ["javascript", "react", "routing", "router"],
+      "link": "https://reacttraining.com/react-router/web/api/",
       "timestamp": "2017-05-03",
-      "credit": "nire0510@github"
+      "credit": "YakyRef@github"
     }
   ]
 }
