@@ -609,7 +609,7 @@
       "credit": "YakyRef@github"
     },
     {
-      "name": "React-Router",
+      "name": "React Router",
       "description": "Declarative Routing for React",
       "tags": ["javascript", "react", "routing", "router"],
       "link": "https://reacttraining.com/react-router/web/api/",
