@@ -2,10 +2,10 @@
 Quick access to popular libraries, frameworks & tools online developer documentation.
 
 With all these great frameworks & libraries out there, it's hard to master each one of them.
-*D2* (Developer Documentation) provides links to online documentation of the most popular frameworks, libraries and other development tools, so you’ll able to get some answers quickly.
+**D2** (Developer Documentation) provides links to online documentation of the most popular frameworks, libraries and other development tools, so you’ll able to get some answers quickly.
 
 ## Installation
-1. Open [D2 page on Chrome Web Store](https://chrome.google.com/webstore/detail/d2-developer-documentatio/pcndaioeajanljljbjglanbmnmhgdjln) on Google Chrome Webstore
+1. Open [D2 page on Chrome Web Store](https://chrome.google.com/webstore/detail/d2-developer-documentatio/pcndaioeajanljljbjglanbmnmhgdjln)
 2. Click on the blue "Add to Chrome" button
 3. Confirm installation by clicking on the "Add extension" button
 
@@ -13,8 +13,8 @@ With all these great frameworks & libraries out there, it's hard to master each 
 1. Click on the extension's logo to open the links list.  
 Alternatively, you can set a keyboard shortcut on Chrome Extensions page (chrome://extensions/ >> Keyboard shortcuts)
 2. Open a link:
+    - Type a tool's name and press enter, or:
     - Click on the search icon, type a tool's name and click on its link, or:  
-    - Type a tool's name and click enter, or:
     - Scroll down with your mouse and click on any link
 
 ## Submit a New Link
