@@ -727,6 +727,14 @@
       "link": "http://snapsvg.io/docs/",
       "timestamp": "2017-05-05",
       "credit": "nire0510@github"
+    },
+    {
+      "name": "Snap.svg",
+      "description": "Better MV-ish framework",
+      "tags": ["javascript", "mvc", "framework"],
+      "link": "http://jsblocks.com/api",
+      "timestamp": "2017-05-05",
+      "credit": "nire0510@github"
     }
   ]
 }
