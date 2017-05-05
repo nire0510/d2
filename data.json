@@ -711,6 +711,22 @@
       "link": "http://graphql.org/learn/",
       "timestamp": "2017-05-05",
       "credit": "nire0510@github"
+    },
+    {
+      "name": "Raphaël",
+      "description": "Simplify your work with vector graphics on the web",
+      "tags": ["javascript", "canvas", "graphics"],
+      "link": "http://dmitrybaranovskiy.github.io/raphael/reference.html",
+      "timestamp": "2017-05-05",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "Snap.svg",
+      "description": "The JavaScript SVG library for the modern web",
+      "tags": ["javascript", "svg", "graphics"],
+      "link": "http://snapsvg.io/docs/",
+      "timestamp": "2017-05-05",
+      "credit": "nire0510@github"
     }
   ]
 }
