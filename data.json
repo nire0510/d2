@@ -673,12 +673,20 @@
       "credit": "nire0510@github"
     },
     {
-      "name": "Java",
-      "description": "Java SE API Documentation",
-      "tags": ["language", "oracle"],
-      "link": "http://docs.oracle.com/javase/8/docs/api/index.html",
+      "name": "Ramda",
+      "description": "A practical functional library for JavaScript programmers.",
+      "tags": ["javascript", "library", "fp"],
+      "link": "http://ramdajs.com/docs/",
       "timestamp": "2017-05-05",
-      "credit": "nire0510@github"
+      "credit": "yurynix@github"
+    },
+    {
+      "name": "RxJS",
+      "description": "Reactive Extensions Library for JavaScript",
+      "tags": ["javascript", "library", "observables"],
+      "link": "http://reactivex.io/rxjs/",
+      "timestamp": "2017-05-05",
+      "credit": "yurynix@github"
     },
     {
       "name": "ASP.NET",
