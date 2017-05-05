@@ -679,6 +679,14 @@
       "link": "http://ramdajs.com/docs/",
       "timestamp": "2017-05-05",
       "credit": "yurynix@github"
+    },
+    {
+      "name": "RxJS",
+      "description": "Reactive Extensions Library for JavaScript",
+      "tags": ["javascript", "library", "observables"],
+      "link": "http://reactivex.io/rxjs/",
+      "timestamp": "2017-05-05",
+      "credit": "yurynix@github"
     }
   ]
 }
