@@ -9,7 +9,7 @@
       "credit": "nire0510@github"
     },
     {
-      "name": "Ember.js",
+      "name": "Ember",
       "description": "A framework for creating ambitious web applications",
       "tags": ["javascript", "framework", "mvc"],
       "link": "https://emberjs.com/api/",
@@ -42,7 +42,7 @@
     },
     {
       "name": "Bootstrap",
-      "description": "Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web",
+      "description": "HTML, CSS, and JS framework for developing responsive, mobile first projects on the web",
       "tags": ["framework", "ui"],
       "link": "http://getbootstrap.com/getting-started/",
       "timestamp": "2017-04-22",
@@ -82,7 +82,7 @@
     },
     {
       "name": "React",
-      "description": "A JAVASCRIPT LIBRARY FOR BUILDING USER INTERFACES",
+      "description": "A JavaScript library for building user interfaces",
       "tags": ["javascript", "library"],
       "link": "https://facebook.github.io/react/docs/hello-world.html",
       "timestamp": "2017-04-22",
@@ -129,7 +129,7 @@
       "credit": "nire0510@github"
     },
     {
-      "name": "Google Chrome Extensions API",
+      "name": "Google Chrome extensions API",
       "description": "",
       "tags": ["extension"],
       "link": "https://developer.chrome.com/extensions/api_index",
@@ -186,7 +186,7 @@
     },
     {
       "name": "mocha",
-      "description": "the fun, simple, flexible JavaScript test framework",
+      "description": "The fun, simple, flexible JavaScript test framework",
       "tags": ["framework", "testing"],
       "link": "https://docs.npmjs.com/",
       "timestamp": "2017-04-22",
@@ -226,7 +226,7 @@
     },
     {
       "name": "ImageMagick",
-      "description": "Convert, Edit, Or Compose Bitmap Images",
+      "description": "Convert, edit, or compose bitmap images",
       "tags": ["image", "cli"],
       "link": "https://www.imagemagick.org/script/command-line-processing.php",
       "timestamp": "2017-04-22",
@@ -234,7 +234,7 @@
     },
     {
       "name": "Kodi",
-      "description": "Open Source Home Theater Software",
+      "description": "Open source home theater software",
       "tags": ["software", "python", "addon"],
       "link": "http://mirrors.kodi.tv/docs/python-docs/",
       "timestamp": "2017-04-22",
@@ -242,7 +242,7 @@
     },
     {
       "name": "SeleniumHQ",
-      "description": "Browser Automation",
+      "description": "Browser automation",
       "tags": ["framework", "testing"],
       "link": "http://www.seleniumhq.org/docs/",
       "timestamp": "2017-04-22",
@@ -687,6 +687,62 @@
       "link": "http://reactivex.io/rxjs/",
       "timestamp": "2017-05-05",
       "credit": "yurynix@github"
+    },
+    {
+      "name": "ASP.NET",
+      "description": ".NET framework for building modern cloud-based web applications on Windows, Mac, or Linux",
+      "tags": ["language", "microsoft"],
+      "link": "https://docs.microsoft.com/en-us/aspnet/core/api/",
+      "timestamp": "2017-05-05",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "Immutable.js",
+      "description": "Immutable collections for JavaScript",
+      "tags": ["javascript", "library"],
+      "link": "http://facebook.github.io/immutable-js/docs/#/",
+      "timestamp": "2017-05-05",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "Relay",
+      "description": "A JavaScript framework for building data-driven React applications",
+      "tags": ["javascript", "library", "react"],
+      "link": "https://facebook.github.io/relay/docs/getting-started.html",
+      "timestamp": "2017-05-05",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "GraphQL",
+      "description": "A query language for your API",
+      "tags": ["javascript", "library", "data"],
+      "link": "http://graphql.org/learn/",
+      "timestamp": "2017-05-05",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "Raphaël",
+      "description": "Simplify your work with vector graphics on the web",
+      "tags": ["javascript", "canvas", "graphics"],
+      "link": "http://dmitrybaranovskiy.github.io/raphael/reference.html",
+      "timestamp": "2017-05-05",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "Snap.svg",
+      "description": "The JavaScript SVG library for the modern web",
+      "tags": ["javascript", "svg", "graphics"],
+      "link": "http://snapsvg.io/docs/",
+      "timestamp": "2017-05-05",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "jsblocks",
+      "description": "Better MV-ish framework",
+      "tags": ["javascript", "mvc", "framework"],
+      "link": "http://jsblocks.com/api",
+      "timestamp": "2017-05-05",
+      "credit": "nire0510@github"
     }
   ]
 }
