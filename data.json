@@ -98,7 +98,7 @@
     },
     {
       "name": "Vue.js",
-      "description": "The Progressive JavaScript Framework",
+      "description": "The progressive JavaScript framework",
       "tags": ["javascript", "framework", "mvc"],
       "link": "https://vuejs.org/v2/api/",
       "timestamp": "2017-04-22",
@@ -146,7 +146,7 @@
     },
     {
       "name": "AdminLTE",
-      "description": "Control Panel Template",
+      "description": "Control panel template",
       "tags": ["ui"],
       "link": "https://almsaeedstudio.com/themes/AdminLTE/documentation/index.html",
       "timestamp": "2017-04-22",
@@ -210,7 +210,7 @@
     },
     {
       "name": "Karma",
-      "description": "Spectacular Test Runner for Javascript",
+      "description": "Spectacular test runner for JavaScript",
       "tags": ["framework", "testing"],
       "link": "https://karma-runner.github.io/1.0/dev/public-api.html",
       "timestamp": "2017-04-22",
@@ -218,7 +218,7 @@
     },
     {
       "name": "QUnit",
-      "description": "A JavaScript Unit Testing framework",
+      "description": "A JavaScript unit testing framework",
       "tags": ["framework", "testing"],
       "link": "http://api.qunitjs.com/",
       "timestamp": "2017-04-22",
@@ -282,7 +282,7 @@
     },
     {
       "name": "Compass",
-      "description": "Compass is an open-source CSS Authoring Framework",
+      "description": "Compass is an open-source CSS authoring framework",
       "tags": ["framework", "ui", "css"],
       "link": "http://compass-style.org/help/documentation/",
       "timestamp": "2017-04-22",
@@ -290,7 +290,7 @@
     },
     {
       "name": "LoopBack",
-      "description": "The Node.js API Framework",
+      "description": "The Node.js API framework",
       "tags": ["framework", "nodejs"],
       "link": "http://apidocs.strongloop.com/",
       "timestamp": "2017-04-22",
@@ -298,7 +298,7 @@
     },
     {
       "name": "PHP",
-      "description": "PHP is a popular general-purpose scripting language that is especially suited to web development",
+      "description": "General-purpose scripting language that is especially suited to web development",
       "tags": ["language"],
       "link": "http://php.net/manual/en/langref.php",
       "timestamp": "2017-04-22",
@@ -314,7 +314,7 @@
     },
     {
       "name": "grunt",
-      "description": "The JavaScript Task Runner",
+      "description": "The JavaScript task runner",
       "tags": ["cli"],
       "link": "https://gruntjs.com/api/grunt",
       "timestamp": "2017-04-22",
@@ -354,7 +354,7 @@
     },
     {
       "name": "Stylus",
-      "description": "EXPRESSIVE, DYNAMIC, ROBUST CSS",
+      "description": "Expressive, dynamic, robust CSS",
       "tags": ["css", "framework", "ui"],
       "link": "http://stylus-lang.com/",
       "timestamp": "2017-04-22",
@@ -362,7 +362,7 @@
     },
     {
       "name": "Polymer",
-      "description": "Unlock the Power of Web Components",
+      "description": "Unlock the power of web components",
       "tags": ["css", "library", "ui"],
       "link": "https://www.polymer-project.org/2.0/docs/about_20",
       "timestamp": "2017-04-22",
@@ -370,7 +370,7 @@
     },
     {
       "name": "Meteor",
-      "description": "THE FASTEST WAY TO BUILD JAVASCRIPT APPS",
+      "description": "The fastest way to build JavaScript apps",
       "tags": ["javascript", "framework"],
       "link": "http://docs.meteor.com/#/full/",
       "timestamp": "2017-04-22",
@@ -442,7 +442,7 @@
     },
     {
       "name": "Flux",
-      "description": "APPLICATION ARCHITECTURE FOR BUILDING USER INTERFACES",
+      "description": "Application architecture for building user interfaces",
       "tags": ["javascript", "library"],
       "link": "https://facebook.github.io/flux/docs/overview.html#content",
       "timestamp": "2017-04-29",
@@ -602,7 +602,7 @@
     },
      {
       "name": "Jest",
-      "description": "Painless JavaScript Testing",
+      "description": "Painless JavaScript testing",
       "tags": ["javascript", "testing", "react"],
       "link": "https://facebook.github.io/jest/docs/en/api.html",
       "timestamp": "2017-05-03",
@@ -610,7 +610,7 @@
     },
     {
       "name": "React Router",
-      "description": "Declarative Routing for React",
+      "description": "Declarative routing for React",
       "tags": ["javascript", "react", "routing", "router"],
       "link": "https://reacttraining.com/react-router/web/api/",
       "timestamp": "2017-05-03",
@@ -618,7 +618,7 @@
     },
     {
       "name": "Material-UI",
-      "description": "A Set of React Components that Implement Google's Material Design",
+      "description": "A set of React components that implement Google's Material Design",
       "tags": ["javascript", "react", "material design", "css"],
       "link": "http://www.material-ui.com/#/get-started/usage",
       "timestamp": "2017-05-03",
@@ -642,7 +642,7 @@
     },
     {
       "name": "Three.js",
-      "description": "A JavaScript 3D Library which makes WebGL simpler",
+      "description": "A JavaScript 3D library which makes WebGL simpler",
       "tags": ["javascript", "library", "ui", "3d", "animation"],
       "link": "https://threejs.org/docs/index.html#manual/introduction/Creating-a-scene",
       "timestamp": "2017-05-03",
@@ -674,7 +674,7 @@
     },
     {
       "name": "Ramda",
-      "description": "A practical functional library for JavaScript programmers.",
+      "description": "A practical functional library for JavaScript programmers",
       "tags": ["javascript", "library", "fp"],
       "link": "http://ramdajs.com/docs/",
       "timestamp": "2017-05-05",
@@ -682,7 +682,7 @@
     },
     {
       "name": "RxJS",
-      "description": "Reactive Extensions Library for JavaScript",
+      "description": "Reactive extensions library for JavaScript",
       "tags": ["javascript", "library", "observables"],
       "link": "http://reactivex.io/rxjs/",
       "timestamp": "2017-05-05",
