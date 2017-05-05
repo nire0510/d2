@@ -671,6 +671,14 @@
       "link": "https://mixpanel.com/help/reference",
       "timestamp": "2017-05-03",
       "credit": "nire0510@github"
+    },
+    {
+      "name": "Ramda",
+      "description": "A practical functional library for JavaScript programmers.",
+      "tags": ["javascript", "library", "fp"],
+      "link": "http://ramdajs.com/docs/",
+      "timestamp": "2017-05-05",
+      "credit": "yurynix@github"
     }
   ]
 }
