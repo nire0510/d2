@@ -337,8 +337,8 @@
       "credit": "nire0510@github"
     },
     {
-      "name": "Python 2",
-      "description": "Work quickly and integrate systems more effectively",
+      "name": "Python",
+      "description": "Work quickly and integrate systems more effectively (V2)",
       "tags": ["language"],
       "link": "https://docs.python.org/2/reference/index.html",
       "timestamp": "2017-04-22",
@@ -346,7 +346,7 @@
     },
     {
       "name": "Python 3",
-      "description": "Work quickly and integrate systems more effectively",
+      "description": "Work quickly and integrate systems more effectively (V3)",
       "tags": ["language"],
       "link": "https://docs.python.org/3/reference/index.html",
       "timestamp": "2017-04-22",
