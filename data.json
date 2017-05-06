@@ -233,14 +233,6 @@
       "credit": "nire0510@github"
     },
     {
-      "name": "Kodi",
-      "description": "Open source home theater software",
-      "tags": ["software", "python", "addon"],
-      "link": "http://mirrors.kodi.tv/docs/python-docs/",
-      "timestamp": "2017-04-22",
-      "credit": "nire0510@github"
-    },
-    {
       "name": "SeleniumHQ",
       "description": "Browser automation",
       "tags": ["framework", "testing"],
@@ -759,6 +751,22 @@
       "link": "https://electron.atom.io/docs/api/",
       "timestamp": "2017-05-06",
       "credit": "sokki@github"
+    },
+    {
+      "name": "PhantomJS",
+      "description": "Headless WebKit scriptable with a JavaScript API",
+      "tags": ["javascript", "testing", "node"],
+      "link": "http://phantomjs.org/api/",
+      "timestamp": "2017-05-06",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "CasperJS",
+      "description": "Navigation scripting & testing for PhantomJS and SlimerJS",
+      "tags": ["javascript", "testing", "node"],
+      "link": "http://docs.casperjs.org/en/latest/",
+      "timestamp": "2017-05-06",
+      "credit": "nire0510@github"
     }
   ]
 }
