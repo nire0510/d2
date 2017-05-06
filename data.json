@@ -751,6 +751,14 @@
       "link": "http://jsblocks.com/api",
       "timestamp": "2017-05-05",
       "credit": "nire0510@github"
+    },
+    {
+      "name": "Electron",
+      "description": "Build cross platform desktop apps with JavaScript, HTML, and CSS",
+      "tags": ["javascript", "desktop", "node"],
+      "link": "https://electron.atom.io/docs/api/",
+      "timestamp": "2017-05-06",
+      "credit": "sokki@github"
     }
   ]
 }
