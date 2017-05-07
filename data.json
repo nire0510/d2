@@ -815,6 +815,70 @@
       "link": "https://stripe.com/docs",
       "timestamp": "2017-05-06",
       "credit": "nire0510@github"
+    },
+    {
+      "name": "Ruby on Rails",
+      "description": "A web-application framework that includes everything needed to create database-backed web applications",
+      "tags": ["javascript", "framework", "mvc", "ruby"],
+      "link": "http://api.rubyonrails.org/",
+      "timestamp": "2017-05-06",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "Yeoman",
+      "description": "The web's scaffolding tool for modern webapps",
+      "tags": ["javascript", "cli", "scaffolding"],
+      "link": "http://yeoman.io/learning/",
+      "timestamp": "2017-05-06",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "Homebrew",
+      "description": "The missing package manager for macOS",
+      "tags": ["macosx", "cli", "package"],
+      "link": "http://docs.brew.sh/",
+      "timestamp": "2017-05-06",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "Google Maps APIs",
+      "description": "Google Maps for every platform",
+      "tags": ["javascript", "maps"],
+      "link": "https://developers.google.com/maps/documentation/",
+      "timestamp": "2017-05-06",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "Piwik",
+      "description": "Leading open-source analytics platform",
+      "tags": ["javascript", "analytics"],
+      "link": "https://developer.piwik.org/api-reference",
+      "timestamp": "2017-05-06",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "Jasmine",
+      "description": "Behavior-Driven JavaScript",
+      "tags": ["javascript", "testing"],
+      "link": "https://jasmine.github.io/api/edge/global",
+      "timestamp": "2017-05-06",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "Visual Website Optimizer",
+      "description": "A/B Testing and Conversion Optimization Platform",
+      "tags": ["ab testing"],
+      "link": "https://vwo.com/knowledge/",
+      "timestamp": "2017-05-06",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "Inspectlet",
+      "description": "Website heatmaps, session recording, form analytics",
+      "tags": ["tool", "behavior", "testing"],
+      "link": "http://www.inspectlet.com/docs",
+      "timestamp": "2017-05-06",
+      "credit": "nire0510@github"
     }
   ]
 }
