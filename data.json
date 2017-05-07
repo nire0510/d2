@@ -807,6 +807,14 @@
       "link": "https://modernizr.com/docs",
       "timestamp": "2017-05-06",
       "credit": "nire0510@github"
+    },
+    {
+      "name": "Stripe",
+      "description": "Stripe is a suite of APIs that powers commerce for businesses of all sizes",
+      "tags": ["javascript", "payment", "api"],
+      "link": "https://stripe.com/docs",
+      "timestamp": "2017-05-06",
+      "credit": "nire0510@github"
     }
   ]
 }
