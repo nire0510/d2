@@ -791,6 +791,22 @@
       "link": "https://zeit.co/docs",
       "timestamp": "2017-05-06",
       "credit": "nire0510@github"
+    },
+    {
+      "name": "RequireJS",
+      "description": "JavaScript file and module loader",
+      "tags": ["javascript", "module"],
+      "link": "http://requirejs.org/docs/api.html",
+      "timestamp": "2017-05-06",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "Modernizr",
+      "description": "Feature detection library for HTML5/CSS3",
+      "tags": ["javascript", "css", "support"],
+      "link": "https://modernizr.com/docs",
+      "timestamp": "2017-05-06",
+      "credit": "nire0510@github"
     }
   ]
 }
