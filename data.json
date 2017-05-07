@@ -767,6 +767,30 @@
       "link": "http://docs.casperjs.org/en/latest/",
       "timestamp": "2017-05-06",
       "credit": "nire0510@github"
+    },
+    {
+      "name": "Slate",
+      "description": "Slate is a completely customizable framework for building rich text editors",
+      "tags": ["javascript", "ui"],
+      "link": "https://docs.slatejs.org/",
+      "timestamp": "2017-05-06",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "React Native",
+      "description": "Learn once, write anywhere: Build mobile apps with React",
+      "tags": ["javascript", "framework", "mobile", "react"],
+      "link": "http://facebook.github.io/react-native/docs/getting-started.html",
+      "timestamp": "2017-05-06",
+      "credit": "nire0510@github"
+    },
+    {
+      "name": "Next.js",
+      "description": "Framework for server-rendered React apps",
+      "tags": ["javascript", "framework", "react"],
+      "link": "https://zeit.co/docs",
+      "timestamp": "2017-05-06",
+      "credit": "nire0510@github"
     }
   ]
 }
