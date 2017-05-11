@@ -879,6 +879,13 @@
       "link": "http://www.inspectlet.com/docs",
       "timestamp": "2017-05-06",
       "credit": "nire0510@github"
+    },
+    {
+      "name": "Anijs",
+      "description": "Website animation",
+      "tags": ["animation", "ui"],
+      "link": "http://anijs.github.io/",
+      "timestamp": "2017-05-06"
     }
   ]
 }
