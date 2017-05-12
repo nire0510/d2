@@ -879,6 +879,14 @@
       "link": "http://www.inspectlet.com/docs",
       "timestamp": "2017-05-06",
       "credit": "nire0510@github"
+    },
+    {
+      "name": "AniJS",
+      "description": "Declarative handling library for CSS animations",
+      "tags": ["animation", "ui", "css"],
+      "link": "http://anijs.github.io/#documentation",
+      "timestamp": "2017-05-11",
+      "credit": "payalbutala@github"
     }
   ]
 }
