@@ -881,11 +881,12 @@
       "credit": "nire0510@github"
     },
     {
-      "name": "Anijs",
-      "description": "Website animation",
-      "tags": ["animation", "ui"],
-      "link": "http://anijs.github.io/",
-      "timestamp": "2017-05-06"
+      "name": "AniJS",
+      "description": "Declarative handling library for CSS animations",
+      "tags": ["animation", "ui", "css"],
+      "link": "http://anijs.github.io/#documentation",
+      "timestamp": "2017-05-11",
+      "credit": "payalbutala@github"
     }
   ]
 }
