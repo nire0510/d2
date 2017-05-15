@@ -891,8 +891,8 @@
     {
       "name": "Swift",
       "description": "A powerful and intuitive programming language for macOS, iOS, watchOS and tvOS",
-      "tags": ["language, Apple, macOS, iOS, watchOS, tvOS"],
-      "link": "https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/index.html",
+      "tags": ["language", "apple", "macos", "ios", "watchos", "tvos"],
+      "link": "https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/AboutTheLanguageReference.html#//apple_ref/doc/uid/TP40014097-CH29-ID345",
       "timestamp": "2017-05-14",
       "credit": "kymer@github"
     }
