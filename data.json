@@ -105,6 +105,14 @@
       "credit": "nire0510@github"
     },
     {
+      "name": "vue-router 2",
+      "description": "The official router for Vue.js",
+      "tags": ["javascript", "framework", "mvc", "vue"],
+      "link": "http://router.vuejs.org/en/",
+      "timestamp": "2017-05-23",
+      "credit": "nire0510@github"
+    },
+    {
       "name": "jq",
       "description": "jq is a lightweight and flexible command-line JSON processor",
       "tags": ["cli", "json"],
