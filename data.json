@@ -73,6 +73,14 @@
       "credit": "nire0510@github"
     },
     {
+      "name": "Hubot",
+      "description": "Hubot is your friendly robot sidekick",
+      "tags": ["bot", "slack", "shell", "productivity"],
+      "link": "https://hubot.github.com/docs/",
+      "timestamp": "2017-05-23",
+      "credit": "nire0510@github"
+    },
+    {
       "name": "Ember CLI",
       "description": "The command line interface for ambitious web applications",
       "tags": ["cli", "framework"],
