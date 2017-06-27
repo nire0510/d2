@@ -911,6 +911,14 @@
       "link": "https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/AboutTheLanguageReference.html#//apple_ref/doc/uid/TP40014097-CH29-ID345",
       "timestamp": "2017-05-14",
       "credit": "kymer@github"
+    },
+    {
+      "name": "Neutrino",
+      "description": "Create and build modern JavaScript applications with zero initial configuration",
+      "tags": ["javascript", "productivity", "package"],
+      "link": "https://neutrino.js.org/",
+      "timestamp": "2017-06-27",
+      "credit": "nire0510@github"
     }
   ]
 }
