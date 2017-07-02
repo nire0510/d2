@@ -919,6 +919,14 @@
       "link": "https://neutrino.js.org/",
       "timestamp": "2017-06-27",
       "credit": "nire0510@github"
+    },
+    {
+      "name": "TensorFlow",
+      "description": "Computation using data flow graphs for scalable machine learning",
+      "tags": ["ml", "python"],
+      "link": "https://www.tensorflow.org/get_started/",
+      "timestamp": "2017-07-02",
+      "credit": "nikita.voloboev@gmail.com"
     }
   ]
 }
