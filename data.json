@@ -943,6 +943,14 @@
       "link": "https://github.com/ember-intl/ember-intl",
       "timestamp": "2017-07-31",
       "credit": "nire0510@github"
+    },
+    {
+      "name": "SendGrid",
+      "description": "Partner with the email service trusted by developers and marketers for time-savings, scalability, and delivery expertise",
+      "tags": ["api", "emails"],
+      "link": "https://sendgrid.com/docs/API_Reference/index.html",
+      "timestamp": "2017-09-24",
+      "credit": "nire0510@github"
     }
   ]
 }
