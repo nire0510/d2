@@ -951,6 +951,14 @@
       "link": "https://sendgrid.com/docs/API_Reference/index.html",
       "timestamp": "2017-09-24",
       "credit": "nire0510@github"
+    },
+    {
+      "name": "Puppeteer",
+      "description": "Node library which provides a high-level API to control headless Chrome or Chromium",
+      "tags": ["api", "chrome", "testing", "automation"],
+      "link": "https://github.com/GoogleChrome/puppeteer/blob/master/docs/api.md",
+      "timestamp": "2018-03-11",
+      "credit": "nire0510@github"
     }
   ]
 }
