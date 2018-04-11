@@ -959,6 +959,14 @@
       "link": "https://github.com/GoogleChrome/puppeteer/blob/master/docs/api.md",
       "timestamp": "2018-03-11",
       "credit": "nire0510@github"
+    },
+    {
+      "name": "Winston",
+      "description": "A logger for just about everything",
+      "tags": ["package", "node", "log"],
+      "link": "https://github.com/winstonjs/winston#table-of-contents",
+      "timestamp": "2018-04-11",
+      "credit": "nire0510@github"
     }
   ]
 }
