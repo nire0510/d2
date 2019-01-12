@@ -967,6 +967,14 @@
       "link": "https://github.com/winstonjs/winston#table-of-contents",
       "timestamp": "2018-04-11",
       "credit": "nire0510@github"
-    }
+    },
+    {
+      "name": "Yii2",
+      "description": "Yii2 framework documentation",
+      "tags": ["php", "yii2", "log"],
+      "link": "https://www.yiiframework.com/doc/api/2.0",
+      "timestamp": "2018-04-23",
+      "credit": "yunniko@ya.ru"
+  }
   ]
 }
