@@ -975,6 +975,14 @@
       "link": "https://www.yiiframework.com/doc/api/2.0",
       "timestamp": "2018-04-23",
       "credit": "yunniko@ya.ru"
-  }
+    },
+    {
+      "name": "Rust Language",
+      "description": "A language empowering everyone to build reliable and efficient software.",
+      "tags": ["rust", "mozilla", "systems", "programming", "language"],
+      "link": "https://www.rust-lang.org/learn",
+      "timestamp": "2019-09-16",
+      "credit": "comwt@github"
+    }
   ]
 }
