@@ -984,5 +984,13 @@
       "timestamp": "2019-09-16",
       "credit": "comwt@github"
     }
+     {
+      "name": "Terraform",
+      "description": "Terraform is a configuration language for cloud providers such as AWS or GCP",
+      "tags": ["iac", "aws", "gcp"],
+      "link": "https://www.terraform.io/docs",
+      "timestamp": "2021-02-19",
+      "credit": "apples723@github"
+    }
   ]
 }
